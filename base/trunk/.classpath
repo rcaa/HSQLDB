@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="build/gradle-ivyxml-plugin-0.3.2.jar"/>
+	<classpathentry kind="lib" path="build/gradle-javaPropFile-plugin-0.6.0.jar"/>
+	<classpathentry kind="lib" path="build/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/servlet-2_3-fcs-classfiles.zip"/>
+	<classpathentry kind="lib" path="lib/ant.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
